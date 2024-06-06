@@ -28,7 +28,8 @@
         'Me.BackgroundImage = My.Resources.StandardButton
         'Me.BackgroundImageLayout = ImageLayout.Stretch
 
-        Me.BackColor = Color.DarkGray
+        Me.BackColor = Color.DimGray
+
         'Me.Text = ""
         'Me.Font = New Drawing.Font("Segoe UI", 12, FontStyle.Bold)
 
