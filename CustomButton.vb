@@ -26,7 +26,7 @@
         Me.BackgroundImageLayout = ImageLayout.Stretch
 
         Me.ForeColor = Color.White
-        'Me.Text = "新規"
+        'Me.Text = ""
         Me.Font = New Drawing.Font("Segoe UI", 12, FontStyle.Bold)
 
 
